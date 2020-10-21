@@ -52,5 +52,6 @@
 #preview {
   background-color: white;
   word-wrap: break-word;
+  min-height: 100vh;
 }
 
