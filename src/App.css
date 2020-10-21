@@ -51,5 +51,6 @@
 
 #preview {
   background-color: white;
+  word-wrap: break-word;
 }
 
